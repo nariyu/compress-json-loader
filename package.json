@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "@nariyu"
+  },
+  "bugs": {
+    "url": "https://github.com/nariyu/compress-json-loader/issues"
+  },
+  "dependencies": {
+    "lz-string": "^1.4.4"
+  },
+  "description": "compress json loader module for webpack",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/nariyu/compress-json-loader#readme",
+  "license": "MIT",
+  "name": "compress-json-loader",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nariyu/compress-json-loader.git"
+  },
+  "scripts": {},
+  "version": "0.1.0"
+}
